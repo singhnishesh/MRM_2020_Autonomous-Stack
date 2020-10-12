@@ -1,1 +1,1 @@
-catkin_workspace
+_catkin_ws
